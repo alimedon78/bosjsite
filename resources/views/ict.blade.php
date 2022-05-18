@@ -1,0 +1,51 @@
+@extends("/layouts.base")
+		
+		@section("content")
+	
+	 
+    <!-- Page Title -->
+    <section class="page-title" style="background-image:url(assets/images/background/1.jpg)">
+    	<div class="auto-container">
+			<h1> Information Technology Section</h1>
+			<ul class="page-breadcrumb">
+				<li><a href="index.html">home</a></li>
+				<li>ICT Unit </li>
+			</ul>
+        </div>
+    </section>
+    <!-- End Page Title -->
+    <section class="chooseus-section alternet-2">
+        <div class="auto-container">
+            <div class="sec-title centered">
+                <h3>Information Technology Section</h3>
+                <div class="text">
+                    
+                </div>
+            </div>
+            <p class="text-justify">The Borno State High Court has a translation unit for translation of 
+                court proceeding records. Borno is a multicultural and multi-ethinic state where most of its 
+            residents speak local languages of Kanuri and Hausa.</p>
+								<div class="two-column">
+									<div class="row clearfix">
+										<!-- Column -->
+										<div class="column col-lg-8 col-md-8 col-sm-12">
+											<p class="text-justify">The area courts in the state take their record of proceedings in Hausa 
+        language  and when cases from such courts are appealed to the Sharia Court of Appeal or State High courts,
+    the records of proceeding are then translated and certified at the Translation unit in the High Court complex.</p>
+											
+										</div>
+										<!-- Column -->
+										
+                                        <div class="column col-lg-4 col-md-4 col-sm-12">
+											<div class="image">
+												<img src="assets/images/resource/news-19.jpg" alt="" />
+											</div>
+										</div>
+									</div>
+								</div>
+          
+        </div>
+    </section>
+    
+	@endsection
+	
